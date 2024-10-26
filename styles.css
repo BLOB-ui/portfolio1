@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+  background: linear-gradient(90deg, rgb(0, 0, 0) 0%, rgb(133, 216, 233) 100%);
+}
+
+h1 {
+  color: #FFFACD;
+  -webkit-text-decoration: underline #FFFACD 7px;
+          text-decoration: underline #FFFACD 7px;
+}
+
+hr {
+  color: white;
+}
+
+.intro {
+  color: white;
+}
+
+.education .box .row .school h5 {
+  color: #FF6F61;
+}
+
+.projects .container-fluid .row .projs .proj {
+  overflow: hidden;
+  border-radius: 30px;
+  margin: 10px;
+}
+.projects .container-fluid .row .projs .proj a img {
+  height: 200px;
+  margin-bottom: 2rem;
+}
+.projects .container-fluid .row .projs .proj .details p {
+  width: 90px;
+  height: 30px;
+}/*# sourceMappingURL=styles.css.map */
