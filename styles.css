@@ -41,6 +41,8 @@ hr {
   width: 400px;
   height: 200px;
   margin-bottom: 2rem;
+  -o-object-fit: cover;
+     object-fit: cover;
 }
 .projects .container-fluid .row .projs .proj .details p {
   width: 90px;
