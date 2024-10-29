@@ -26,13 +26,19 @@ hr {
 .education .box .row .school h5 {
   color: #FF6F61;
 }
+.education .box .row .about-education p {
+  text-indent: 70px;
+}
 
 .projects .container-fluid .row .projs .proj {
   overflow: hidden;
   border-radius: 30px;
   margin: 10px;
+  height: 500px;
+  width: 380px;
 }
 .projects .container-fluid .row .projs .proj a img {
+  width: 400px;
   height: 200px;
   margin-bottom: 2rem;
 }
