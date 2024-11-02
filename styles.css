@@ -22,6 +22,17 @@ hr {
 .intro {
   color: white;
 }
+.intro nav {
+  background-color: #c1f88d;
+}
+.intro nav .box0 .navbar-brand {
+  color: black;
+}
+
+img {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
 
 .education .box .row .school h5 {
   color: #FF6F61;

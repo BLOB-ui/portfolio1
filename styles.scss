@@ -16,6 +16,17 @@ hr{
 }
 .intro{
     color: white;
+    nav{
+        background-color: #c1f88d;
+        .box0{
+            .navbar-brand{
+                color: black;
+            }
+        }
+    }
+}
+img{
+    object-fit: cover;
 }
 .education{
     .box{
